@@ -3,13 +3,7 @@ import { Form, Formik } from 'formik'
 import { FormControl, FormErrorMessage, FormLabel, Input } from '@chakra-ui/core';
 
 
-interface registerProps {
-
-}
-
-
-
-
+interface registerProps {}
 
 export const Register: React.FC<registerProps> = ({}) => {
   return (
